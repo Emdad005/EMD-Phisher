@@ -6,7 +6,7 @@
 
  pkg install git
 
- git clone https://github.com/Hackerscolonyofficial/HCO-Phisher.git
+ git clone https://github.com/Emdad005/EMD-Phisher
 
  cd EMD-PHISHER
 
